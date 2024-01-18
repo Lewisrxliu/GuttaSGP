@@ -90,7 +90,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 ">
-          <form action="#">
+          <form action="callback.php">
             <div>
               <input type="text" placeholder="Name" />
             </div>
@@ -98,7 +98,7 @@
               <input type="email" placeholder="Email" />
             </div>
             <div>
-              <input type="text" placeholder="Pone Number" />
+              <input type="text" placeholder="Phone Number" />
             </div>
             <div>
               <input type="text" class="message-box" placeholder="Message" />
@@ -137,7 +137,7 @@
             </h5>
           </div>
           <div class="col-md-6">
-            <form action="#">
+            <form action="subscribe.php">
               <input type="text" placeholder="Enter Your email">
               <button>
                 subscribe
@@ -221,22 +221,22 @@
   <script type="text/javascript" src="js/bootstrap.js"></script>
 
   <script>
-    // This example adds a marker to indicate the position of planet Earth,
-    // We are in the virtual world.
+    // This example adds a marker to indicate the position of RSU,
+    // Singapore.
     function initMap() {
       var map = new google.maps.Map(document.getElementById("map"), {
         zoom: 11,
         center: {
-          lat: 40.645037,
-          lng: -73.880224
+          lat: 1.290270,
+          lng: 103.851959
         }
       });
 
       var image = "images/maps-and-flags.png";
       var beachMarker = new google.maps.Marker({
         position: {
-          lat: 40.645037,
-          lng: -73.880224
+          lat: 1.290270,
+          lng: 103.851959
         },
         map: map,
         icon: image
