@@ -1,0 +1,41 @@
+<!DOCTYPE html><html lang="en" data-critters-container=""><!-- <html lang="en" style="filter: grayscale(100%);"> --><head>
+    <meta charset="utf-8">
+    <title>Deepin Technology Community</title>
+    <meta name="keywords" content="deepin,forum,community">
+    <meta name="description" content="Deepin Official Forum">
+    <base href="/">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <!-- <script>
+      document.write(
+        "<script type='text/javascript' src='https://cstaticdun.126.net/load.min.js?t=" +
+          parseInt(new Date().getTime() / 600000) +
+          "'><\/script>"
+      );
+    </script> -->
+    <script src="https://cdn-nu-common.uniontech.com/tinymce/5.5.1/tinymce.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn-nu-common.uniontech.com/deepin-component/web-component/v1/main.css">
+    <script src="https://cdn-nu-common.uniontech.com/deepin-component/web-component/v1/main.js"></script>
+  <style>body,html{height:100%;width:100%}html{-webkit-tap-highlight-color:transparent}body{color:#000000d9}*,:after,:before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;--antd-wave-shadow-color:#1890ff;--scroll-bar:0}body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji"}body{margin:0;font-size:14px;font-variant:tabular-nums;line-height:1.5715;background-color:#fff;font-feature-settings:"tnum"}html{overflow:auto;scroll-padding-top:70px;font-size:14px}@font-face{font-family:"Custom Color Emoji";font-display:swap;src:local("Twemoji Mozilla"),local("Noto Color Emoji"),url(https://cdn-nu-common.uniontech.com/fonts/NotoColorEmoji.ttf),url(https://cdn.jsdelivr.net/gh/googlefonts/noto-emoji@v2020-09-16-unicode13_1/fonts/NotoColorEmoji.ttf),url(https://raw.githubusercontent.com/googlefonts/noto-emoji/v2020-09-16-unicode13_1/fonts/NotoColorEmoji.ttf)}body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Custom Color Emoji","Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol}html,body{padding:0;margin:0}*{outline:0px}</style><link rel="stylesheet" href="styles.b73cb22084b11cfd.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.b73cb22084b11cfd.css"></noscript><style ng-app-id="ng">@charset "UTF-8";.err[_ngcontent-ng-c2046236769]{width:100%;height:100vh;display:flex;align-items:center;align-content:center;justify-content:center;flex-direction:column}p[_ngcontent-ng-c2046236769]{margin:44px 0 30px;font-size:18px;color:#666}a[_ngcontent-ng-c2046236769]{text-decoration:none;color:#fff;width:160px;height:45px;background:rgb(25,121,255);border-radius:8px;text-align:center;line-height:45px;font-size:16px}a[_ngcontent-ng-c2046236769]:link, a[_ngcontent-ng-c2046236769]:visited, a[_ngcontent-ng-c2046236769]:hover, a[_ngcontent-ng-c2046236769]:active{text-decoration:none}.errphone[_ngcontent-ng-c2046236769]{width:100%;height:100%;margin-top:80px;display:flex;align-items:center;align-content:center;justify-content:center;flex-direction:column}.errphone[_ngcontent-ng-c2046236769]   p[_ngcontent-ng-c2046236769]{margin:20px 0 120px;font-size:18px;color:#666}.errphone[_ngcontent-ng-c2046236769]   img[_ngcontent-ng-c2046236769]{width:258px;height:182px}.errphone[_ngcontent-ng-c2046236769]   a[_ngcontent-ng-c2046236769]{text-decoration:none;color:#fff;width:160px;height:45px;background:rgb(25,121,255);border-radius:4px;text-align:center;line-height:45px;font-size:16px}</style></head>
+
+  <body>
+    <app-root _nghost-ng-c3834406257="" ng-version="16.1.1" ng-server-context="ssr"><router-outlet _ngcontent-ng-c3834406257=""></router-outlet><app-error-pc _nghost-ng-c2046236769=""><div _ngcontent-ng-c2046236769="" class="err"><img _ngcontent-ng-c2046236769="" alt="" src="/assets/image/pc/404.svg"><p _ngcontent-ng-c2046236769="">PageNotExist</p><a _ngcontent-ng-c2046236769="">BackTo</a></div></app-error-pc><!----></app-root>
+  <script src="runtime.72fa27306e7b7a07.js" type="module"></script><script src="polyfills.85df72e7a11a56aa.js" type="module"></script><script src="main.7ae248485a4a345d.js" type="module"></script>
+
+  
+  <script>
+    function _gaInit() {
+      console.log("ga init");
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-QHZ7DPPD2D");
+    }
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-QHZ7DPPD2D" onload="_gaInit()"></script>
+
+<script id="ng-state" type="application/json">{"lang":"en"}</script></body><!-- Google analytics --></html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/开源免费</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#ECECFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/开源免费" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="统一开发工具" transform="translate(10.000000, 18.000000)">
+            <g id="主区域">
+                <path d="M60,0 L60,26 L56,26 L56,20 L4,20 L4,40 L32,40 L32,44 L0,44 L0,0 L60,0 Z M56,4 L4,4 L4,16 L56,16 L56,4 Z M12,8 L12,12 L8,12 L8,8 L12,8 Z M20,8 L20,12 L16,12 L16,8 L20,8 Z M28,8 L28,12 L24,12 L24,8 L28,8 Z" id="矩形-2" fill="#1A1F36"></path>
+                <rect id="矩形" fill="url(#linearGradient-1)" x="8" y="24" width="44" height="12"></rect>
+            </g>
+            <path d="M40.9497475,32.0502525 L48.0208153,39.1213203 L45.1923882,41.9497475 L40.9496797,37.7072525 L36.7071068,41.9497475 L33.8786797,39.1213203 L38.1216797,34.8792525 L38.1213203,34.8786797 L40.9497475,32.0502525 Z" id="矩形-2" fill="#003296" transform="translate(40.949747, 37.000000) scale(1, -1) rotate(-90.000000) translate(-40.949747, -37.000000) "></path>
+            <path d="M54.9497475,32.0502525 L62.0208153,39.1213203 L59.1923882,41.9497475 L54.9496797,37.7072525 L50.7071068,41.9497475 L47.8786797,39.1213203 L52.1216797,34.8792525 L52.1213203,34.8786797 L54.9497475,32.0502525 Z" id="矩形-2" fill="#003296" transform="translate(54.949747, 37.000000) scale(-1, -1) rotate(-90.000000) translate(-54.949747, -37.000000) "></path>
+        </g>
+    </g>
+</svg>

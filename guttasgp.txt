@@ -1,0 +1,60 @@
+https://guttasgp.github.io/
+https://roadsideuniversity.github.io/RSU
+https://github.com/RoadSideUniversity/RSU
+
+
+Gutta Singapore 软件公司是一家总部在新加坡，专注于操作系统研发和服务的软件公司。
+
+	Gutta OS的使命是用科技的力量，连接这个地球的所有人—— 我们始终相信操作系统不应该只有一种选择。
+
+	我们一直致力于设计和研发操作系统和周边工具，让人们体验更佳的生产力和更先进的技术进步带来的生活体验。
+
+
+Gutta OS —— 安全、简洁、易用 的桌面操作系统
+Gutta OS是基于X86架构Linux的桌面操作系统
+支持intel和AMD等主流芯片
+支持5.10内核，保证硬件的兼容性和用户的体验性
+支持50+国家，33种语音
+使用开源的DDE 5.0桌面
+精美且简洁的UI设计，带来更佳的用户体验
+简单实用的菜单设计，让新用户更易上手
+集成大量免费，常用软件
+集成文档编辑器、浏览器、播放器等常用小工具
+客户也可以自行下载WPS、LibreOffice等免费办公套件
+
+产品功能介绍
+设计精美
+提供丰富的系统配置项，包括本地/网络账户创建登录和管理、语言日期、默认程序、系统主题、网络和更新、开发者模式等等。
+操作便捷
+便捷的系统设置入口、简明的功能操作提示和逻辑层级，让系统设置不再困难。 
+性能优异
+支持搜索关键字来查找配置项，以及语音查找配置项，即便忘记设置名称也能快速定位。
+
+Gutta Singapore Company Profile
+
+Gutta公司及产品简介
+GUTTA OS 操作系统  
+社区参与贡献
+生态应用
+
+About
+Products and System
+News and Communties
+
+
+Gutta OS —— 安全、简洁、易用 的桌面操作系统
+
+Largest Chinese-Based Linux Operation System, well established community and ecosystem, widely adopted in 50+ countries with 33+ langurages
+ Beautiful UI design, intimate human-computer interaction, and friendly community environment make you feel at home. 
+Gutta OS —— 性能优异,设计精美,操作便捷
+
+GUTTA OS is easy to install and can meet your work needs without additional system configuration and software installation. 
+User-friendly
+The desktop environment and multiple applications based on the self-developed DTK not only have a beautiful UI, but also offer the human-computer interaction in line with AI assistance. You can get started with it in a few minutes.
+Privacy Protection, After system installation, everything is up to you. Photos, music, files, etc. are well-protected personal data. 
+Perfect Ecology
+GUTTA OS not only develops a series of basic office software such as Music, Movie, Screen Capture, but also provides nearly 40,000 applications in App Store, which can run perfectly on GUTTA OS.
+Open Source and Established Community
+Our source code is released under the open-source software licenses, and can be viewed on GitHub .
+Powerful Community
+Our development, operation, products, and testing are closely linked to users. You can feed back your questions in forums, GitHub, WeChat, Telegram, and Twitter. 

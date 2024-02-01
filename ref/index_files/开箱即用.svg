@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/开箱即用</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#ECECFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/开箱即用" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="跨平台架构" transform="translate(7.000000, 18.000000)">
+            <g id="主区域">
+                <path d="M0,44 L0,40 L3,40 L3,0 L63,0 L63,23 L59,23 L59,4 L7,4 L7,40 L40,40 L40,44 L0,44 Z" id="矩形-2" fill="#1A1F36"></path>
+                <rect id="矩形" fill="url(#linearGradient-1)" x="11" y="8" width="44" height="28"></rect>
+            </g>
+            <path d="M54.9644661,26.0355339 L62.0355339,33.1066017 L59.2071068,35.9350288 L56.9591009,33.6877766 C56.8066965,42.7707357 53.3936366,45.0355339 44.9644661,45.0355339 L44.9644661,41.0355339 C51.1859268,41.0355339 52.8629106,40.488942 52.9599101,33.6988754 L50.7218254,35.9350288 L47.8933983,33.1066017 L52.136039,28.863961 L54.9644661,26.0355339 Z" id="矩形-2" fill="#003296" transform="translate(53.500000, 35.535534) scale(1, -1) rotate(-90.000000) translate(-53.500000, -35.535534) "></path>
+        </g>
+    </g>
+</svg>
