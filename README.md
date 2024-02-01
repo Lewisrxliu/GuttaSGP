@@ -1,10 +1,10 @@
-# Gutta Singapore (https://guttasingapore.github.io/GuttaSGP/) ![guttasg](https://github.com/guttasingapore/GuttaSGP/assets/135027355/f707e101-d111-408f-af9f-d14167afeb2a)
+# Gutta Singapore [(https://guttasingapore.github.io/GuttaSGP/)] ![guttasg](https://github.com/guttasingapore/GuttaSGP/assets/135027355/f707e101-d111-408f-af9f-d14167afeb2a)
 
 Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer at Singapore
 
 ## Contact us: 
 [Email: Guttasingapore@gmail.com]
-[Linkedin] (https://www.linkedin.com/in/rui-lewis-b97227261/)
+[Linkedin (https://www.linkedin.com/in/rui-lewis-b97227261/) ] 
 [Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)]
 
 Gutta公司 Gutta Singapore Company 
