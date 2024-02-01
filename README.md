@@ -1,4 +1,4 @@
-# Gutta Singapore [guttasg] !(https://github.com/guttasingapore/GuttaSGP/assets/135027355/f707e101-d111-408f-af9f-d14167afeb2a)
+# Gutta Singapore [![guttasg](https://github.com/guttasingapore/GuttaSGP/assets/135027355/f707e101-d111-408f-af9f-d14167afeb2a)]
 (https://guttasingapore.github.io/GuttaSGP/)
 Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer at Singapore
 
