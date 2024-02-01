@@ -1,12 +1,14 @@
 # Gutta Singapore
 
-2024.2.1 connecting with TFH, plan be-a-worldcoin-operator in 2024
-- https://www.toolsforhumanity.com/ - https://worldcoin.org/be-a-worldcoin-operator - https://worldcoin.org/find-orb
-
 Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer 
 - https://guttasingapore.github.io/GuttaSGP/
 
-Gutta公司 Gutta Singapore Company Profile
+Contact us: 
+Email: Guttasingapore@gmail.com
+Linkedin: https://www.linkedin.com/in/rui-lewis-b97227261/
+Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)
+
+Gutta公司 Gutta Singapore Company 
 Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer, located at Singapore CBD.
 GUTTA OS - A Perfect Operation System Embrancing New Era, well Recognised by Communities, Customerised Solution for Enterprise， Gutta OS integrated the AI assistance support human-computer interaction 
 Gutta Singapore 软件公司是一家总部在新加坡，专注于操作系统研发和服务的软件公司。
@@ -56,5 +58,7 @@ Gutta产品简介
 操作便捷, 便捷的系统设置入口、简明的功能操作提示和逻辑层级，让系统设置不再困难。 
 性能优异, 支持搜索关键字来查找配置项，以及语音查找配置项，即便忘记设置名称也能快速定位。
 
-社区参与贡献, 生态应用
-News , Communties
+社区参与贡献, 生态应用, News , Communties
+
+2024.2.1 connecting with TFH, plan be-a-worldcoin-operator in 2024
+- https://www.toolsforhumanity.com/ - https://worldcoin.org/be-a-worldcoin-operator - https://worldcoin.org/find-orb
