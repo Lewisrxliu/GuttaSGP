@@ -1,8 +1,8 @@
 # GuttaSGP
 
 2024.2.1 connecting with TFH, plan be-a-worldcoin-operator in 2024
-https://www.toolsforhumanity.com/,
-https://worldcoin.org/be-a-worldcoin-operator
+//https://www.toolsforhumanity.com/
+//https://worldcoin.org/be-a-worldcoin-operator
 # https://worldcoin.org/find-orb
 
 Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer 
