@@ -1,12 +1,10 @@
 # GuttaSGP
 
-2024.2.1 connecting with TFH, plan be-a-worldcoin-operator in 2024
-//https://www.toolsforhumanity.com/
-//https://worldcoin.org/be-a-worldcoin-operator
-# https://worldcoin.org/find-orb
+# 2024.2.1 connecting with TFH, plan be-a-worldcoin-operator in 2024
+- https://www.toolsforhumanity.com/ - https://worldcoin.org/be-a-worldcoin-operator - https://worldcoin.org/find-orb
 
-Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer 
-# https://guttasingapore.github.io/GuttaSGP/
+# Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer 
+- https://guttasingapore.github.io/GuttaSGP/
 
 Gutta公司 Gutta Singapore Company Profile
 Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer, located at Singapore CBD.
@@ -54,14 +52,9 @@ Support enterprise server migration from CENTOS are highly appreciated among ind
 
 Gutta产品简介
 产品功能介绍
-设计精美
-提供丰富的系统配置项，包括本地/网络账户创建登录和管理、语言日期、默认程序、系统主题、网络和更新、开发者模式等等。
-操作便捷
-便捷的系统设置入口、简明的功能操作提示和逻辑层级，让系统设置不再困难。 
-性能优异
-支持搜索关键字来查找配置项，以及语音查找配置项，即便忘记设置名称也能快速定位。
+设计精美, 提供丰富的系统配置项，包括本地/网络账户创建登录和管理、语言日期、默认程序、系统主题、网络和更新、开发者模式等等。
+操作便捷, 便捷的系统设置入口、简明的功能操作提示和逻辑层级，让系统设置不再困难。 
+性能优异, 支持搜索关键字来查找配置项，以及语音查找配置项，即便忘记设置名称也能快速定位。
 
-社区参与贡献
-生态应用
-News 
-Communties
+社区参与贡献, 生态应用
+News , Communties
