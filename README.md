@@ -1,12 +1,11 @@
-# Gutta Singapore
+# Gutta Singapore (https://guttasingapore.github.io/GuttaSGP/) ![guttasg](https://github.com/guttasingapore/GuttaSGP/assets/135027355/f707e101-d111-408f-af9f-d14167afeb2a)
 
-Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer 
-- https://guttasingapore.github.io/GuttaSGP/
+Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer at Singapore
 
-Contact us: 
-|Email: Guttasingapore@gmail.com
-|Linkedin: https://www.linkedin.com/in/rui-lewis-b97227261/
-|Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)
+## Contact us: 
+[Email: Guttasingapore@gmail.com]
+[Linkedin] (https://www.linkedin.com/in/rui-lewis-b97227261/)
+[Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)]
 
 Gutta公司 Gutta Singapore Company 
 |Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer, located at Singapore CBD.
@@ -24,18 +23,18 @@ Gutta OS是基于X86架构Linux的桌面操作系统，支持intel和AMD等主�
 简单实用的菜单设计，让新用户更易上手，集成大量免费，常用软件， 集成文档编辑器、浏览器、播放器等常用小工具
 客户也可以自行下载WPS、LibreOffice等免费办公套件
 
-GUTTA OS 操作系统 
-|Gutta OS —— 安全、简洁、易用 的桌面操作系统
-Largest Chinese-Based Linux Operation System, well established community and ecosystem, widely adopted in 50+ countries with 33+ langurages
+## GUTTA OS 操作系统 
+GUTTA OS - A Perfect Operation System Embrancing New Era, well Recognised by Communities, Customerised Solution for Enterprise， Gutta OS integrated the AI assistance support human-computer interaction 
+Gutta OS —— 安全、简洁、易用 的桌面操作系统
+Its oriented from Largest Chinese-Based Linux Operation System Deepin/UOS, well established community and ecosystem, widely adopted in 50+ countries with 33+ langurages
  Beautiful UI design, intimate human-computer interaction, and friendly community environment make you feel at home. 
 Gutta OS —— Beautiful UI design, intimate human-computer interaction, and friendly community  <br />
 With desktop environment and multiple applications, provided nearly 40,000 applications in App Store
 Gutta OS ——  性能优异稳定, 设计精美简洁, 操作便捷的用户体验。 提供大量应用软件， 深度集成人工智能
 Gutta OS —— 性能优异,设计精美,操作便捷
-
+Gutta OS —— 不断追求进步与卓越的开源桌面操作系统， 全面配合企业订制与社区开发
 Gutta OS —— have established users and developers community 
 Our development, operation, products, and testing are closely linked to users. You can provide feedback and interacting with Gutta Team for upgrading and improvement.
-Gutta OS —— 不断追求进步与卓越的开源桌面操作系统， 全面配合企业订制与社区开发
 Keep evolving and improving every day
 Gutta OS integrated the latest AI technologies, keep pursuing 
 
@@ -60,6 +59,6 @@ Gutta产品简介
 
 社区参与贡献, 生态应用
 
-# News & Communties
-2024.2.1 connecting with TFH, plan be-a-worldcoin-operator in 2024
-- https://www.toolsforhumanity.com/ - https://worldcoin.org/be-a-worldcoin-operator - https://worldcoin.org/find-orb
+## News & Communties
+2024.2.1 connecting with TFH (https://www.toolsforhumanity.com/), plan be-a-worldcoin-operator (https://worldcoin.org/be-a-worldcoin-operator) in 2024
+
