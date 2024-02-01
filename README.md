@@ -4,12 +4,12 @@ Gutta Singapore is a open source OSV and community leader, AI driven innovative 
 - https://guttasingapore.github.io/GuttaSGP/
 
 Contact us: 
-<>Email: Guttasingapore@gmail.com
-/Linkedin: https://www.linkedin.com/in/rui-lewis-b97227261/
-\Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)
+|Email: Guttasingapore@gmail.com
+|Linkedin: https://www.linkedin.com/in/rui-lewis-b97227261/
+|Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)
 
 Gutta公司 Gutta Singapore Company 
-Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer, located at Singapore CBD.
+|Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer, located at Singapore CBD.
 GUTTA OS - A Perfect Operation System Embrancing New Era, well Recognised by Communities, Customerised Solution for Enterprise， Gutta OS integrated the AI assistance support human-computer interaction 
 Gutta Singapore 软件公司是一家总部在新加坡，专注于操作系统研发和服务的软件公司。
 Gutta OS的使命是用科技的力量，连接这个地球的所有人—— 操作系统不应该只有一种选择。
@@ -25,7 +25,7 @@ Gutta OS是基于X86架构Linux的桌面操作系统，支持intel和AMD等主�
 客户也可以自行下载WPS、LibreOffice等免费办公套件
 
 GUTTA OS 操作系统 
-Gutta OS —— 安全、简洁、易用 的桌面操作系统
+|Gutta OS —— 安全、简洁、易用 的桌面操作系统
 Largest Chinese-Based Linux Operation System, well established community and ecosystem, widely adopted in 50+ countries with 33+ langurages
  Beautiful UI design, intimate human-computer interaction, and friendly community environment make you feel at home. 
 Gutta OS —— Beautiful UI design, intimate human-computer interaction, and friendly community  <br />
@@ -53,12 +53,13 @@ Highly customerised
 Support enterprise server migration from CENTOS are highly appreciated among industry, we provided fully customerised OS solutions
 
 Gutta产品简介
-产品功能介绍
+|产品功能介绍
 设计精美, 提供丰富的系统配置项，包括本地/网络账户创建登录和管理、语言日期、默认程序、系统主题、网络和更新、开发者模式等等。
 操作便捷, 便捷的系统设置入口、简明的功能操作提示和逻辑层级，让系统设置不再困难。 
 性能优异, 支持搜索关键字来查找配置项，以及语音查找配置项，即便忘记设置名称也能快速定位。
 
-社区参与贡献, 生态应用, News , Communties
+社区参与贡献, 生态应用
 
+# News & Communties
 2024.2.1 connecting with TFH, plan be-a-worldcoin-operator in 2024
 - https://www.toolsforhumanity.com/ - https://worldcoin.org/be-a-worldcoin-operator - https://worldcoin.org/find-orb
