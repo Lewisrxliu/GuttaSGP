@@ -4,9 +4,9 @@ Gutta Singapore is a open source OSV and community leader, AI driven innovative 
 - https://guttasingapore.github.io/GuttaSGP/
 
 Contact us: 
-Email: Guttasingapore@gmail.com
-Linkedin: https://www.linkedin.com/in/rui-lewis-b97227261/
-Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)
+<>Email: Guttasingapore@gmail.com
+/Linkedin: https://www.linkedin.com/in/rui-lewis-b97227261/
+\Address: Far East Finance Building, 14 Robinson Rd, Singapore 048545 (please make an appointment prior visiting)
 
 Gutta公司 Gutta Singapore Company 
 Gutta Singapore is a open source OSV and community leader, AI driven innovative organizer, located at Singapore CBD.
